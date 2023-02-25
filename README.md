@@ -2,8 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Web-developer</h3>
 
-Here are some ideas to get you started:
-
+A few details about myself:
 - 🔭 Now I'm studying at Yandex.Practicum;
 - 🌱 Learning Java Script, HTML & CSS;
 - 👩‍💻 Ex account director in advertising agancy;
