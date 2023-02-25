@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - 🌱 Learning Java Script, HTML & CSS;
 - 👩‍💻 Ex account director in advertising agancy;
 - 🏄‍♀️ Pro surfer;
+- 🏃‍♀️ international fitness trainer;
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=Ksenia-Beznos)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ksenia-Beznos)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
