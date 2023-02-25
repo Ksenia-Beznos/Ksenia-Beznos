@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior web-developer from Russia 🇷🇺</h3>
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 Now I'm studying at Yandex.Practicum;
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
