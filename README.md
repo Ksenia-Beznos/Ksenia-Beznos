@@ -12,5 +12,3 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Ksenia-Beznos)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ksenia-Beznos)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
