@@ -3,7 +3,6 @@
 <h3 align="center">Junior web-developer from Russia 🇷🇺</h3>
 
 <!--
-**Ksenia-Beznos/Ksenia-Beznos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +10,8 @@ Here are some ideas to get you started:
 - 🌱 Learning Java Script, HTML & CSS;
 - 👩‍💻 Ex account director in advertising agancy;
 - 🏄‍♀️ Pro surfer;
+
+
 -->
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
